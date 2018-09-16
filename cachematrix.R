@@ -1,4 +1,4 @@
-## These two functions work together to find the inverse of a matrix and cache this result to avoid computing repeatedly
+## These two (2) functions work together to find the inverse of a matrix and cache this result to avoid computing repeatedly
 
 ## makeCacheMatrix will create a matrix object that can cache its inverse
 
